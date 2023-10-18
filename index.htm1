@@ -1,3 +1,7 @@
-《5》
-【https://tjtt.lanzouq.com/iht6c1c2ckmf】
-〖https://tjtt.lanzouq.com/iht6c1c2ckmf〗
+<?php
+
+header("location: https://chat-shared2.zhile.io/shared.html/");
+
+exit;
+
+?>
